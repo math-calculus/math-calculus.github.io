@@ -633,34 +633,18 @@ button {
 .cover-wrapper.focus .menu .list-h a:hover {
   background: var(--color-card);
 }
-.cover-wrapper.focus .menu {
-  transition: all 0.28s ease;
-  -webkit-transition: all 0.28s ease;
-  -khtml-transition: all 0.28s ease;
-  -moz-transition: all 0.28s ease;
-  -o-transition: all 0.28s ease;
-  -ms-transition: all 0.28s ease;
+.cover-wrapper.featured .menu .list-h {
+  margin: -2px;
 }
-.cover-wrapper.focus .menu .list-h {
+.cover-wrapper.featured .menu .list-h a {
   margin: 2px;
-}
-.cover-wrapper.focus .menu:hover {
   background: rgba(255,255,255,0.5);
 }
 @supports (backdrop-filter: blur(20px)) {
-  .cover-wrapper.focus .menu:hover {
+  .cover-wrapper.featured .menu .list-h a {
     background: rgba(255,255,255,0.5);
     backdrop-filter: saturate(200%) blur(20px);
   }
-}
-.cover-wrapper.focus .menu .list-h a {
-  margin: 2px;
-}
-.cover-wrapper.focus .menu .list-h a:hover {
-  opacity: 1;
-  -webkit-opacity: 1;
-  -moz-opacity: 1;
-  background: var(--color-card);
 }
 .cover-wrapper #parallax-window {
   position: absolute;
