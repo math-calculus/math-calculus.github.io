@@ -316,11 +316,11 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/j
 function loadGitalk () {
   function initGitalk () {
     var gitalk = new Gitalk(Object.assign({
-      clientID: '',
-      clientSecret: '',
-      repo: '',
-      owner: '',
-      admin: [''],
+      clientID: '39b47a8f5d54ad7279e7',
+      clientSecret: '5d8e90240447176e3a4ab86aaa448c33bc9c3220',
+      repo: 'math-calculus.github.io',
+      owner: 'math-calculus',
+      admin: ['math-calculus'],
       id: '95c609e757d6b4d4e8419af3a1a3aad5',
       updateCountCallback: commentCount
     },null))
@@ -388,7 +388,7 @@ if ('Gitalk' === 'Gitalk' || !false) {
   }
 
   const getComment = () => {
-    fetch('https://api.github.com/repos/null/null/issues/comments?sort=updated&direction=desc&per_page=6&page=1',{
+    fetch('https://api.github.com/repos/math-calculus/math-calculus.github.io/issues/comments?sort=updated&direction=desc&per_page=6&page=1',{
       "headers": {
         Accept: 'application/vnd.github.v3.html+json'
       }
