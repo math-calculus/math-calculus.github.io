@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://mathcalculus.top/2022/11/10/oi-search/</loc>
-    
-    <lastmod>2022-11-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://mathcalculus.top/2022/09/18/csp-j-2022-travel/</loc>
     
     <lastmod>2022-11-10</lastmod>
@@ -163,7 +154,7 @@
   </url>
   
   <url>
-    <loc>http://mathcalculus.top/tags/OI-DP/</loc>
+    <loc>http://mathcalculus.top/tags/DP/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

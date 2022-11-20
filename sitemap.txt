@@ -1,6 +1,5 @@
 http://mathcalculus.top/2022/11/20/oi-dp/
 http://mathcalculus.top/problem/index.html
-http://mathcalculus.top/2022/11/10/oi-search/
 http://mathcalculus.top/2022/09/18/csp-j-2022-travel/
 http://mathcalculus.top/2022/11/09/math-bx1-1/
 http://mathcalculus.top/2022/11/10/math-bx1-2/
@@ -17,6 +16,6 @@ http://mathcalculus.top/tags/CSP/
 http://mathcalculus.top/tags/%E6%B8%B8%E8%AE%B0/
 http://mathcalculus.top/tags/%E6%95%B0%E5%AD%A6/
 http://mathcalculus.top/tags/%E6%95%B0%E5%AD%A6%E5%BF%85%E4%BF%AE%E4%B8%80/
-http://mathcalculus.top/tags/OI-DP/
+http://mathcalculus.top/tags/DP/
 http://mathcalculus.top/categories/OI/
 http://mathcalculus.top/categories/%E6%95%B0%E5%AD%A6/
